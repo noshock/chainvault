@@ -21,3 +21,6 @@ runs = 512
 runs = 256
 depth = 100
 fail_on_revert = false
+
+[rpc_endpoints]
+sepolia = "${SEPOLIA_RPC_URL}"
